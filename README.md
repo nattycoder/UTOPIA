@@ -29,10 +29,19 @@ UTOPIA VR Industry Training Hub stands as a groundbreaking educational solution 
 ### Front Page of our Platform
 ![1](https://github.com/nattycoder/UTOPIA/assets/88007154/d1c25378-c9ff-471c-943a-b199afc55fbc)
 <br>
+### Available Trainings
 ![image](https://github.com/nattycoder/UTOPIA/assets/88007154/9fdd3051-d3b8-48dc-8ef6-d8665c19bc0f)
+<br>
+### Example of a Purchase 
 ![5](https://github.com/nattycoder/UTOPIA/assets/88007154/d75764ab-08e5-4d27-8d8e-baac5467140a)
+<br>
+### Contact Us 
 ![3](https://github.com/nattycoder/UTOPIA/assets/88007154/7fff1a2b-09c5-4eb0-832a-42f70fb10f9c)
+<br>
+### Request for Training creation
 ![2](https://github.com/nattycoder/UTOPIA/assets/88007154/86297c40-70fe-49b3-9f6a-16a7915be1f9)
+<br>
+### Code Snippets
 ![4](https://github.com/nattycoder/UTOPIA/assets/88007154/164f24a5-9af3-4328-8db1-aa70c0e0dc21)
 
 
