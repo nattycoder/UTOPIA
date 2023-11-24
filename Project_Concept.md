@@ -16,6 +16,6 @@ UTOPIA, a VR Industry Training Hub is an innovative education platform designed 
     
     -Scalable Backend Infrastructure: Efficient backend system managing simulations and collaboration spaces seamlessly.
 <hr>
-In essence, our mission is to propel industrial training into the future, igniting the journey towards Industry 5.0 by offering a transformative and dynamic VR-based education platform. 
-
+In essence, our mission is to propel industrial training into the future, igniting the journey toward Industry 5.0 by offering a transformative and dynamic VR-based education platform. 
+<hr>
 <b><i>Embark on a journey to Utopia: Where Virtual Reality shapes the future of industrial excellence in learning.<i><b>
