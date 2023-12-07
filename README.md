@@ -5,6 +5,7 @@
   - Ranim Hassine
   - Ayoub Chaari
   - Mouayed Chaieb
+  - Youssef Neji (Game Developer)
 
 ## VR INDUSTRY TRAINING HUB:
 ### Description:
